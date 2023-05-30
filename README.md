@@ -18,11 +18,10 @@ To run the script, follow these steps:
 
 #### Run the script: Execute the script by running the following command: python ReportCard.py.
 
-![image](https://github.com/abid7955/Report-Card-Generator/assets/112928966/c3897f44-1276-4bd5-a2ee-c96506ee8cbd)
-
-
 ## Using the Application
 The application provides a GUI for entering personal information and marks for various subjects. After entering the necessary details, click the "Generate Report Card" button to generate the report card in PDF format.
+
+
 
 ### Personal Information
 The following personal information fields are available:
@@ -36,14 +35,23 @@ The application allows entering marks for multiple subjects. The subjects are pr
 #### Physics, Chemistry, Maths, Computer Science, English
 For each subject, enter the marks obtained in three periodic tests.
 
+![image](https://github.com/abid7955/Report-Card-Generator/assets/112928966/cd2c31ff-10d9-4832-ad4d-a09430439e6a)
+![image](https://github.com/abid7955/Report-Card-Generator/assets/112928966/7ad23dfe-dd20-43b0-802d-cd735cd57f7c)
+
 ### Generate Report Card
 Clicking the "Generate Report Card" button will generate the report card in PDF format. The generated report card will include the following information:
+
+
 
 #### School name and logo.
 #### Personal information (name, roll number, class).
 #### Marks obtained in each subject for three periodic tests.
 #### Total marks, obtained marks, percentage, and remarks.
-#### File Structure
+
+![image](https://github.com/abid7955/Report-Card-Generator/assets/112928966/1791a524-238c-41b2-98d3-288f9d86f4a6)
+
+
+## File Structure
 #### The project includes the following files:
 
 ReportCard.py: The main Python script that generates the report card.
