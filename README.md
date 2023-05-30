@@ -16,7 +16,10 @@ To run the script, follow these steps:
 
 #### Install dependencies: If you haven't installed the required dependencies mentioned in the prerequisites section, install them using the appropriate commands.
 
-#### Run the script: Execute the script by running the following command: python report_card_generator.py.
+#### Run the script: Execute the script by running the following command: python ReportCard.py.
+
+![image](https://github.com/abid7955/Report-Card-Generator/assets/112928966/c3897f44-1276-4bd5-a2ee-c96506ee8cbd)
+
 
 ## Using the Application
 The application provides a GUI for entering personal information and marks for various subjects. After entering the necessary details, click the "Generate Report Card" button to generate the report card in PDF format.
